@@ -1,6 +1,6 @@
 Name     : jdk-json4s-jackson_2.11
 Version  : 3.2.11
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11.jar
 Source0  : http://repo2.maven.org/maven2/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11.jar
 Source1  : http://repo2.maven.org/maven2/org/json4s/json4s-jackson_2.11/3.2.11/json4s-jackson_2.11-3.2.11.pom
